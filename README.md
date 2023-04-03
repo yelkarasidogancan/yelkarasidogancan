@@ -8,7 +8,7 @@
 
 https://portfoliodogancan.netlify.app/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelkarasidogancan)](https://github.com/anuraghazra/github-readme-stats)
+GitHub stats](https://github-readme-stats.vercel.app/api?username=yelkarasidogancan&show_icons=true&theme=dark)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="100"/>&nbsp;
