@@ -2,11 +2,13 @@
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other React developer 👩‍💻 
-- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
+- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 
 
 ## You can review my portfolio on my website.
 
 https://portfoliodogancan.netlify.app/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelkarasidogancan)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="100"/>&nbsp;
