@@ -1,17 +1,18 @@
 ## I'm a Student 👨‍🎓, Frontend Developer 🚀
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other React developer 👩‍💻 
-- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 
+- 👯 I’m looking to collaborate with other React developers 👩‍💻 
+- 🥅 2023 Goals: Developing an app known worldwide 🌎 
 
-## You can review my portfolio on my website.
-
+## Portfolio Website
 https://portfoliodogancan.netlify.app/
 
-https://github-readme-stats.vercel.app/api?username=yelkarasidogancan&show_icons=true&theme=dark
+## Stats
+![Dogancan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelkarasidogancan&show_icons=true&theme=dark)
 
+## Languages
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
